@@ -13,7 +13,7 @@ plugins:
 # remote_theme: mmistakes/so-simple-theme # Use this line instead for a remote theme
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 # Optional: Exclude files from processing by Jekyll
 exclude:
   - Gemfile
