@@ -18,5 +18,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor/
-  - README.md
+
 
