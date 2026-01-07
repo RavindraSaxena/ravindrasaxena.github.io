@@ -7,7 +7,9 @@ repository: "username/my-project" # GitHub repo name for issue links etc
 
 # Theme settings
 # You must specify a theme or remote_theme
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 # remote_theme: mmistakes/so-simple-theme # Use this line instead for a remote theme
 
 # Build settings
